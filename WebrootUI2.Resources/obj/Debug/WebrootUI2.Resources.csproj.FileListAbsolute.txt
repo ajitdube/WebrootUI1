@@ -1,0 +1,33 @@
+C:\Users\ajit\Downloads\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\bin\Debug\WebrootUI2.Resources.dll
+C:\Users\ajit\Downloads\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\bin\Debug\WebrootUI2.Resources.pdb
+C:\Users\ajit\Downloads\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\bin\Debug\zh\WebrootUI2.Resources.resources.dll
+C:\Users\ajit\Downloads\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.csprojResolveAssemblyReference.cache
+C:\Users\ajit\Downloads\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.CommonResources.resources
+C:\Users\ajit\Downloads\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.Resource.resources
+C:\Users\ajit\Downloads\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.Resource.zh.resources
+C:\Users\ajit\Downloads\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.csproj.GenerateResource.Cache
+C:\Users\ajit\Downloads\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\zh\WebrootUI2.Resources.resources.dll
+C:\Users\ajit\Downloads\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.dll
+C:\Users\ajit\Downloads\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.pdb
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\bin\Debug\WebrootUI2.Resources.dll
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\bin\Debug\WebrootUI2.Resources.pdb
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\bin\Debug\zh\WebrootUI2.Resources.resources.dll
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.CommonResources.resources
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.Resource.resources
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.Resource.zh.resources
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.csproj.GenerateResource.Cache
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\zh\WebrootUI2.Resources.resources.dll
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.dll
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.pdb
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.csprojResolveAssemblyReference.cache
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\WebrootUI2 4\WebrootUI2.Resources\bin\Debug\WebrootUI2.Resources.dll
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\WebrootUI2 4\WebrootUI2.Resources\bin\Debug\WebrootUI2.Resources.pdb
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\WebrootUI2 4\WebrootUI2.Resources\bin\Debug\zh\WebrootUI2.Resources.resources.dll
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\WebrootUI2 4\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.csprojResolveAssemblyReference.cache
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\WebrootUI2 4\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.CommonResources.resources
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\WebrootUI2 4\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.Resource.resources
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\WebrootUI2 4\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.Resource.zh.resources
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\WebrootUI2 4\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.csproj.GenerateResource.Cache
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\WebrootUI2 4\WebrootUI2.Resources\obj\Debug\zh\WebrootUI2.Resources.resources.dll
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\WebrootUI2 4\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.dll
+D:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\WebrootUI2 4\WebrootUI2.Resources\obj\Debug\WebrootUI2.Resources.pdb

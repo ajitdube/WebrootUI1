@@ -1,0 +1,8 @@
+08/31/2013 02:10:53 | testadminuser | Exception | System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at WebrootUI2.Tasks.AcquireTask.Delete(Int32 Id) in d:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Tasks\AcquireTask.cs:line 181    at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at WebrootUI2.Tasks.AcquireTask.Delete(Int32 Id) in d:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Tasks\AcquireTask.cs:line 181 
+08/31/2013 02:11:07 | testadminuser | Exception | System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at WebrootUI2.Tasks.AcquireTask.Delete(Int32 Id) in d:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Tasks\AcquireTask.cs:line 181    at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at WebrootUI2.Tasks.AcquireTask.Delete(Int32 Id) in d:\mcpayment-webui-test0-ashkgwithu-gmail.com-375a022714f3\SourceCode\WebrootUI2.Tasks\AcquireTask.cs:line 181 
